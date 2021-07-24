@@ -1,4 +1,4 @@
-# Project 3 - *Tweet*
+# Project 4 - *Tweet*
 
 # Tweet - Part II
 
@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![] (https://media.giphy.com/media/7GRqsRzOp9zt48TNlu/giphy.gif)
 
 Time spent: **4** hours spent in total
 
