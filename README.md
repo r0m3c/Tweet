@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-![] (https://media.giphy.com/media/7GRqsRzOp9zt48TNlu/giphy.gif)
+![](https://media.giphy.com/media/7GRqsRzOp9zt48TNlu/giphy.gif)
 
 Time spent: **4** hours spent in total
 
